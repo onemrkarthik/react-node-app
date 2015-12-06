@@ -5,6 +5,7 @@ module.exports = function (grunt) {
     require('grunt-config-dir')(grunt, {
         configDir: require('path').join(__dirname, 'tasks')
     });
+    
     require('time-grunt')(grunt);
 
     // App tasks
