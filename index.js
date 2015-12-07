@@ -1,4 +1,4 @@
-//test
+//testing
 require('marko/node-require').install();
 require('node-jsx').install();
 
