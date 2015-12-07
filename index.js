@@ -1,6 +1,6 @@
 //testing pull request builder
 require('marko/node-require').install();
-require('node-jsx').install();
+require("node-jsx").install({ extension: ".jsx" });
 
 var express = require('express');
 var app = express();
