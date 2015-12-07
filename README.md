@@ -1,2 +1,2 @@
 # react-node-app
-Sample
+Sample - with CI
