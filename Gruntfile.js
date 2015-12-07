@@ -7,6 +7,6 @@ module.exports = function (grunt) {
     });
     require('time-grunt')(grunt);
 
-    // App tasks 1234sdffsf
+    // App tasks 1234sdffsffsfsfdf
     grunt.registerTask('test', ['karma:test']);
 };
